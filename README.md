@@ -1,2 +1,2 @@
 # HelloWorld
-第一个GitHbu的HelloWorld项目
+第一个GitHub的HelloWorld项目
